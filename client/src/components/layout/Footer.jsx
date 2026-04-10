@@ -49,20 +49,20 @@ const Footer = () => {
             </h3>
             <div className="flex flex-col gap-3">
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/visio_nxry._?igsh=OWY3OGJvdDlrYmdq"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-text-secondary text-sm hover:text-accent transition-colors duration-200"
               >
                 <Instagram size={16} />
-                @medusa.art
+                @visio_nxry
               </a>
               <a
-                href="mailto:gopika@medusa.art"
+                href="mailto:gopikasuresh2911@gmail.com"
                 className="flex items-center gap-2 text-text-secondary text-sm hover:text-accent transition-colors duration-200"
               >
                 <Mail size={16} />
-                gopika@medusa.art
+                gopikasuresh2911@gmail.com
               </a>
             </div>
           </div>

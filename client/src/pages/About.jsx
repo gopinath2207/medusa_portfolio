@@ -80,13 +80,13 @@ const About = () => {
             See works-in-progress, behind-the-scenes videos, and finished pieces on Instagram.
           </p>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/visio_nxry._?igsh=OWY3OGJvdDlrYmdq"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 px-8 py-4 border border-border text-text-secondary rounded-xl hover:border-accent hover:text-accent transition-all duration-200"
           >
             <Instagram size={20} />
-            Follow @medusa.art on Instagram
+            Follow @visio_nxry on Instagram
           </a>
         </div>
       </section>
