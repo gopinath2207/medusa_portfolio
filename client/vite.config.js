@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     port: 5173,
     // Dev proxy — only active during `npm run dev`
-    // In production, VITE_API_URL points directly to Koyeb
+    // In production, /api is served from the same Vercel domain (relative path)
     proxy: {
       '/api': {
         target: 'http://localhost:5000',
